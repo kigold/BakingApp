@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:2:1-38:12
 	package
 		ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:3:5-45
 		INJECTED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml
@@ -18,17 +18,17 @@ ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidM
 	android:name
 		ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:7:5-29:19
+ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:7:5-36:19
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\1f45ea3fbdeac1861eb690abb741262885c60b7d\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\4edc889457009bf5cd5304811577edab797924c0\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\cd2851dbca67c5b8ef6a6651ddbaf5d6bc459f3b\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\97511c40ee55b0dce929066638e250a9a902e773\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\ab2534e1fee2e856386020debb449b7cd5d338da\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\dc8cc245f75b387b027f48710581de2dd75e7cd1\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\03979a6aeb1883b469dbe094591f72947c833d19\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\KingsLee\.android\build-cache\ffe958ac6a2c72ca4523076d9071c57b91417e0d\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\4338ba7c7a30073083487dff60bc821b2f0500a7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\4edc889457009bf5cd5304811577edab797924c0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\cd2851dbca67c5b8ef6a6651ddbaf5d6bc459f3b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\97511c40ee55b0dce929066638e250a9a902e773\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\70490166b8b9c2f9811fe578cff616f9baed7875\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\ab2534e1fee2e856386020debb449b7cd5d338da\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\3e58345094c9a722dc1bb6d7cf398edfb696b2d2\output\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:10:9-41
@@ -65,24 +65,28 @@ ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidM
 	android:name
 		ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:22:13-47
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:25:13-27:86
+ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:25:13-27:79
 	android:value
-		ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:27:17-83
+		ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:27:17-76
 	android:name
 		ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:26:17-63
+activity#com.example.kingslee.bakingapp.MediaActivity
+ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:name
+		ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:29:19-48
 uses-sdk
 INJECTED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\1f45ea3fbdeac1861eb690abb741262885c60b7d\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\4edc889457009bf5cd5304811577edab797924c0\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\cd2851dbca67c5b8ef6a6651ddbaf5d6bc459f3b\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\97511c40ee55b0dce929066638e250a9a902e773\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\ab2534e1fee2e856386020debb449b7cd5d338da\output\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\dc8cc245f75b387b027f48710581de2dd75e7cd1\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\03979a6aeb1883b469dbe094591f72947c833d19\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\KingsLee\.android\build-cache\ffe958ac6a2c72ca4523076d9071c57b91417e0d\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\4338ba7c7a30073083487dff60bc821b2f0500a7\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\b7b4de915c0c9be27913bd5321ed2e9cdca994ef\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\4edc889457009bf5cd5304811577edab797924c0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\cd2851dbca67c5b8ef6a6651ddbaf5d6bc459f3b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\97511c40ee55b0dce929066638e250a9a902e773\output\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\70490166b8b9c2f9811fe578cff616f9baed7875\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\ab2534e1fee2e856386020debb449b7cd5d338da\output\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\3e58345094c9a722dc1bb6d7cf398edfb696b2d2\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\1f45ea3fbdeac1861eb690abb741262885c60b7d\output\AndroidManifest.xml:23:9-75
@@ -94,15 +98,15 @@ MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\KingsLee
 		INJECTED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\1f45ea3fbdeac1861eb690abb741262885c60b7d\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\4edc889457009bf5cd5304811577edab797924c0\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\cd2851dbca67c5b8ef6a6651ddbaf5d6bc459f3b\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\97511c40ee55b0dce929066638e250a9a902e773\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\ab2534e1fee2e856386020debb449b7cd5d338da\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\dc8cc245f75b387b027f48710581de2dd75e7cd1\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\03979a6aeb1883b469dbe094591f72947c833d19\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\4338ba7c7a30073083487dff60bc821b2f0500a7\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\b7b4de915c0c9be27913bd5321ed2e9cdca994ef\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\4edc889457009bf5cd5304811577edab797924c0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\cd2851dbca67c5b8ef6a6651ddbaf5d6bc459f3b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\97511c40ee55b0dce929066638e250a9a902e773\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\70490166b8b9c2f9811fe578cff616f9baed7875\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\ab2534e1fee2e856386020debb449b7cd5d338da\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\3e58345094c9a722dc1bb6d7cf398edfb696b2d2\output\AndroidManifest.xml:25:5-27:41
 	android:value
 		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\1f45ea3fbdeac1861eb690abb741262885c60b7d\output\AndroidManifest.xml:27:9-38

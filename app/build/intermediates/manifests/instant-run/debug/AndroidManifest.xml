@@ -34,7 +34,14 @@
             android:parentActivityName="com.example.kingslee.bakingapp.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.kingslee.detailedview.ItemListActivity" />
+                android:value="com.example.kingslee.bakingapp.MainActivity" />
+        </activity>
+        <activity android:name="com.example.kingslee.bakingapp.MediaActivity" >
+            android:label="@string/app_name"
+            android:parentActivityName=".ItemDetailActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kingslee.bakingapp.ItemDetailActivity" />
         </activity>
 
         <provider

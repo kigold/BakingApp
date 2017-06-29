@@ -66,7 +66,7 @@ public class StepAdapter extends RecyclerView.Adapter<StepAdapter.StepAdapterVie
     public void onBindViewHolder(StepAdapter.StepAdapterViewHolder holder, int position) {
         Context context = holder.itemView.getContext();
         Step daStep = mStep.get(position);
-        holder.mStepDesc.setText(daStep.getDesc());
+        holder.mStepDesc.setText(daStep.getShortDesc());
         Picasso.with(context)
                 .load(daStep.getThumbnail())
                 .placeholder(R.mipmap.ic_launcher)

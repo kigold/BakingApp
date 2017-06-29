@@ -75,7 +75,14 @@ public class MainActivity extends AppCompatActivity implements RecipeAdapter.Rec
 
         //mRecyclerView = (RecyclerView) findViewById(R.id.recipe_list);
         assert mRecyclerView != null;
-        //mErrorMessage = (TextView) findViewById(R.id.tv_err_msg);
+
+        //define the layout based on the size of the screen
+        if(findViewById(R.id.two_pane_control) != null) {
+            // This LinearLayout will only initially exist in the two-pane tablet case
+            mTwoPane = true;
+            mGrid_size = LARGE_SCREEN_ITEMS_IN_GRIDVIEW;
+        }
+
         mRecipeAdapter = new RecipeAdapter(this);
         GridLayoutManager layoutManager = new GridLayoutManager(this, mGrid_size);
         mRecyclerView.setLayoutManager(layoutManager);

@@ -8,6 +8,10 @@
         "source": "C:\\Users\\KingsLee\\dev\\android\\Udacity\\BakingApp\\app\\src\\main\\res\\layout-w700dp\\recipe_list_item.xml"
     },
     {
+        "merged": "C:\\Users\\KingsLee\\dev\\android\\Udacity\\BakingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-w700dp-v13\\activity_item_detail.xml",
+        "source": "C:\\Users\\KingsLee\\dev\\android\\Udacity\\BakingApp\\app\\src\\main\\res\\layout-w700dp\\activity_item_detail.xml"
+    },
+    {
         "merged": "C:\\Users\\KingsLee\\dev\\android\\Udacity\\BakingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-w700dp-v13\\recipe_details.xml",
         "source": "C:\\Users\\KingsLee\\dev\\android\\Udacity\\BakingApp\\app\\src\\main\\res\\layout-w700dp\\recipe_details.xml"
     },
