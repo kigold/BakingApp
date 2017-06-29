@@ -1,0 +1,7 @@
+#Thu Jun 29 00:51:59 WAT 2017
+base.0=C\:\\Users\\KingsLee\\dev\\android\\Udacity\\BakingApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_375ce8dea0cfbab77212379a9cd29848797910af
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\KingsLee\\dev\\android\\Udacity\\BakingApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_05bf84df58d1d3f5983a1ccaa056890116372a7b\\classes.dex
+base.1=C\:\\Users\\KingsLee\\dev\\android\\Udacity\\BakingApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_05bf84df58d1d3f5983a1ccaa056890116372a7b
+file.0=C\:\\Users\\KingsLee\\dev\\android\\Udacity\\BakingApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_375ce8dea0cfbab77212379a9cd29848797910af\\classes.dex
