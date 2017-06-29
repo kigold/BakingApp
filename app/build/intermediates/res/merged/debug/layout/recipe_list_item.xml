@@ -18,14 +18,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:adjustViewBounds="true"
-            card_view:srcCompat="@android:drawable/gallery_thumb" />
+            android:adjustViewBounds="true" />
 
         <TextView
             android:id="@+id/tv_recipe_name"
+            android:textSize="@dimen/medium_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="1" />
+            android:layout_weight="5" />
 
     </LinearLayout>
 

@@ -32,13 +32,13 @@ public class RecipeParseUtils {
                 recipe.setName(recipeObj.getString("name"));
                 recipe.setImage(recipeObj.getString("image"));
                 recipe.setServings(recipeObj.getString("servings"));
-                /*
+
                 //get ingredients
                 ArrayList<Ingredient> temp_Ingredients= new ArrayList<>();
                 JSONArray ingredientsJson = recipeObj.getJSONArray("ingredients");
-                for(int j=0; i < ingredientsJson.length(); j++){
+                for(int j=0; j < ingredientsJson.length(); j++){
                     Ingredient temp_Ingredient = new Ingredient();
-                    JSONObject temp = ingredientsJson.getJSONObject(i);
+                    JSONObject temp = ingredientsJson.getJSONObject(j);
                     temp_Ingredient.setQuantity(temp.getString("quantity"));
                     temp_Ingredient.setMeasure(temp.getString("measure"));
                     temp_Ingredient.setIngredient(temp.getString("ingredient"));
@@ -48,17 +48,17 @@ public class RecipeParseUtils {
                 //get steps
                 ArrayList<Step> temp_Steps= new ArrayList<>();
                 JSONArray stepsJson = recipeObj.getJSONArray("steps");
-                for(int j=0; i < stepsJson.length(); j++){
+                for(int j=0; j < stepsJson.length(); j++){
                     Step temp_Step = new Step();
-                    JSONObject temp = ingredientsJson.getJSONObject(i);
+                    JSONObject temp = stepsJson.getJSONObject(j);
                     temp_Step.setId(temp.getInt("id"));
                     temp_Step.setShortDesc(temp.getString("shortDescription"));
                     temp_Step.setDesc(temp.getString("description"));
-                    temp_Step.setVideoUrl(temp.getString("videoUrl"));
+                    temp_Step.setVideoUrl(temp.getString("videoURL"));
                     temp_Step.setThumbnail(temp.getString("thumbnailURL"));
                     temp_Steps.add(temp_Step);
                 }
-                recipe.setSteps(temp_Steps);*/
+                recipe.setSteps(temp_Steps);
 
                 recipes.add(recipe);
             }
