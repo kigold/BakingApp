@@ -10,9 +10,12 @@ public class ItemDetailActivity$$ViewInjector<T extends com.example.kingslee.bak
     View view;
     view = finder.findRequiredView(source, 2131427424, "field 'mIngredientList'");
     target.mIngredientList = finder.castView(view, 2131427424, "field 'mIngredientList'");
+    view = finder.findRequiredView(source, 2131427426, "field 'mStepList'");
+    target.mStepList = finder.castView(view, 2131427426, "field 'mStepList'");
   }
 
   @Override public void reset(T target) {
     target.mIngredientList = null;
+    target.mStepList = null;
   }
 }

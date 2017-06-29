@@ -6,42 +6,42 @@
     density="xhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1498709509741"
+    timestamp="1498735154652"
     token="-5574333106775443514"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="324" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="21" />
+        duration="0" />
     <task
         name="verifier"
-        duration="2" />
+        duration="0" />
 
-    <artifact
-        location="C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
     <artifact
         location="C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\build\outputs\apk\app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1498708226869"
+        timestamp="1498734523772"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
         <artifact
             location="C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
@@ -67,28 +67,19 @@
         <artifact
             location="C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1498709187732"
+        timestamp="1498734690420"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1498709509741"
+        timestamp="1498735154652"
         verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
         <artifact
             location="C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />

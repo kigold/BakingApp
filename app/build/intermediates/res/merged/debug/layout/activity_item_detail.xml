@@ -12,7 +12,7 @@
         android:orientation="vertical">
 
         <TextView
-            android:id="@+id/heading"
+            android:id="@+id/ing_heading"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="5"
@@ -22,7 +22,7 @@
 
         <ScrollView
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="150dp"
             android:layout_weight="5">
 
             <android.support.v7.widget.RecyclerView
@@ -30,11 +30,29 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginLeft="16dp"
-                android:layout_marginRight="16dp"
-                />
+                android:layout_marginRight="16dp" />
+        </ScrollView>
 
+        <TextView
+            android:id="@+id/step_heading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"
+            android:layout_gravity="right"
+            android:text="@string/step_header"
+            android:textSize="@dimen/medium_text" />
 
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_weight="5">
 
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/rv_step_list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp" />
         </ScrollView>
 
     </LinearLayout>

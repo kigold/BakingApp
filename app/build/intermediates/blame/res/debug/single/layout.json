@@ -180,6 +180,10 @@
         "source": "C:\\Users\\KingsLee\\.android\\build-cache\\1f45ea3fbdeac1861eb690abb741262885c60b7d\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
+        "merged": "C:\\Users\\KingsLee\\dev\\android\\Udacity\\BakingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\step_item.xml",
+        "source": "C:\\Users\\KingsLee\\dev\\android\\Udacity\\BakingApp\\app\\src\\main\\res\\layout\\step_item.xml"
+    },
+    {
         "merged": "C:\\Users\\KingsLee\\dev\\android\\Udacity\\BakingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\KingsLee\\.android\\build-cache\\1f45ea3fbdeac1861eb690abb741262885c60b7d\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     }

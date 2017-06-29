@@ -8,16 +8,21 @@ import android.support.v7.widget.RecyclerView;
 import android.widget.TextView;
 
 import com.example.kingslee.bakingapp.adapter.IngredientAdapter;
+import com.example.kingslee.bakingapp.adapter.StepAdapter;
 import com.example.kingslee.bakingapp.datatype.Recipe;
+import com.example.kingslee.bakingapp.datatype.Step;
 
 import butterknife.ButterKnife;
 import butterknife.InjectView;
 
-public class ItemDetailActivity extends AppCompatActivity {
+public class ItemDetailActivity extends AppCompatActivity implements StepAdapter.StepAdapterOnClickHandler {
 
     IngredientAdapter mIngredientAdapter;
+    StepAdapter mStepAdapter;
     @InjectView(R.id.rv_ingredient_list)
     RecyclerView mIngredientList;
+    @InjectView(R.id.rv_step_list)
+    RecyclerView mStepList;
     /*
     @InjectView(R.id.tv_quantity)
     TextView mQuantity;
@@ -51,20 +56,27 @@ public class ItemDetailActivity extends AppCompatActivity {
                 boolean shouldReverseLayout = false;
                 LinearLayoutManager layoutManagerIngredient
                         = new LinearLayoutManager(this, recyclerViewOrientation, shouldReverseLayout);
-                mIngredientAdapter = new IngredientAdapter();
-                mIngredientList.setAdapter(mIngredientAdapter);
                 mIngredientList.setLayoutManager(layoutManagerIngredient);
                 mIngredientList.setHasFixedSize(true);
+                mIngredientAdapter = new IngredientAdapter();
                 mIngredientAdapter.setData(mRecipe.getIngredients());
+                mIngredientList.setAdapter(mIngredientAdapter);
 
-                /*LinearLayoutManager layoutManagerTrailer
+                LinearLayoutManager layoutManagerStep
                         = new LinearLayoutManager(this, recyclerViewOrientation, shouldReverseLayout);
-                mTrailerAdapter = new TrailerAdapter(this);
-                mTrailerList.setLayoutManager(layoutManagerTrailer);
-                mTrailerList.setHasFixedSize(true);*/
+                mStepList.setLayoutManager(layoutManagerStep);
+                mStepList.setHasFixedSize(true);
+                mStepAdapter = new StepAdapter(this);
+                mStepAdapter.setData(mRecipe.getSteps());
+                mStepList.setAdapter(mStepAdapter);
 
             }
         }
+
+    }
+
+    @Override
+    public void onClick(Step step) {
 
     }
 }
