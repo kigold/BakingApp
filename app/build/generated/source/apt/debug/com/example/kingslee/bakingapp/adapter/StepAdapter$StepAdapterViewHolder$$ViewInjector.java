@@ -8,10 +8,10 @@ import butterknife.ButterKnife.Injector;
 public class StepAdapter$StepAdapterViewHolder$$ViewInjector<T extends com.example.kingslee.bakingapp.adapter.StepAdapter.StepAdapterViewHolder> implements Injector<T> {
   @Override public void inject(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131427461, "field 'mStepDesc'");
-    target.mStepDesc = finder.castView(view, 2131427461, "field 'mStepDesc'");
-    view = finder.findRequiredView(source, 2131427460, "field 'mStepThumbnail'");
-    target.mStepThumbnail = finder.castView(view, 2131427460, "field 'mStepThumbnail'");
+    view = finder.findRequiredView(source, 2131427462, "field 'mStepDesc'");
+    target.mStepDesc = finder.castView(view, 2131427462, "field 'mStepDesc'");
+    view = finder.findRequiredView(source, 2131427461, "field 'mStepThumbnail'");
+    target.mStepThumbnail = finder.castView(view, 2131427461, "field 'mStepThumbnail'");
   }
 
   @Override public void reset(T target) {

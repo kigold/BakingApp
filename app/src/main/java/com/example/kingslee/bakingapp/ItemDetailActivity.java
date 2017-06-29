@@ -5,12 +5,14 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.example.kingslee.bakingapp.adapter.IngredientAdapter;
 import com.example.kingslee.bakingapp.adapter.StepAdapter;
 import com.example.kingslee.bakingapp.datatype.Recipe;
 import com.example.kingslee.bakingapp.datatype.Step;
+import com.squareup.picasso.Picasso;
 
 import butterknife.ButterKnife;
 import butterknife.InjectView;
@@ -23,6 +25,9 @@ public class ItemDetailActivity extends AppCompatActivity implements StepAdapter
     RecyclerView mIngredientList;
     @InjectView(R.id.rv_step_list)
     RecyclerView mStepList;
+    @InjectView(R.id.iv_banner)
+    public ImageView mBanner;
+    private String foodImageUrl = "https://pixabay.com/en/food-grilled-chicken-spicy-1631727";
     /*
     @InjectView(R.id.tv_quantity)
     TextView mQuantity;
@@ -39,7 +44,11 @@ public class ItemDetailActivity extends AppCompatActivity implements StepAdapter
         setContentView(R.layout.activity_item_detail);
         ButterKnife.inject(this);
 
-        //mRecipeName = (TextView) findViewById(R.id.tv_recipe_name);
+        Picasso.with(getApplicationContext())
+                .load(foodImageUrl)
+                .placeholder(R.mipmap.ic_launcher)
+                .error(R.mipmap.ic_launcher)
+                .into(mBanner);
 
 
         Intent intentOrigin = getIntent();
@@ -47,7 +56,8 @@ public class ItemDetailActivity extends AppCompatActivity implements StepAdapter
         if (intentOrigin != null) {
             if (intentOrigin.hasExtra(RECIPE_DATA_FOR_INTENT)) {
                 mRecipe = intentOrigin.getParcelableExtra(RECIPE_DATA_FOR_INTENT);
-                this.setTitle(mRecipe.getName());
+                //this.setTitle(mRecipe.getName());
+                this.setTitle(foodImageUrl);
                 /*
                 mMeasure.setText(mRecipe.getIngredients().get(0).getMeasure());
                 mQuantity.setText(mRecipe.getIngredients().get(0).getQuantity());

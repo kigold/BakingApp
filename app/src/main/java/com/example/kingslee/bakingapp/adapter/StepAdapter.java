@@ -38,6 +38,7 @@ public class StepAdapter extends RecyclerView.Adapter<StepAdapter.StepAdapterVie
         @InjectView(R.id.iv_step_thumbnail)
         public ImageView mStepThumbnail;
 
+
         public StepAdapterViewHolder(View view) {
             super(view);
             ButterKnife.inject(this, view);
