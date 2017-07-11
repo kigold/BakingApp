@@ -8,12 +8,12 @@ import butterknife.ButterKnife.Injector;
 public class IngredientAdapter$IngredientAdapterViewHolder$$ViewInjector<T extends com.example.kingslee.bakingapp.adapter.IngredientAdapter.IngredientAdapterViewHolder> implements Injector<T> {
   @Override public void inject(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131427436, "field 'mIngredient'");
-    target.mIngredient = finder.castView(view, 2131427436, "field 'mIngredient'");
-    view = finder.findRequiredView(source, 2131427438, "field 'mMeasure'");
-    target.mMeasure = finder.castView(view, 2131427438, "field 'mMeasure'");
-    view = finder.findRequiredView(source, 2131427437, "field 'mQuantity'");
-    target.mQuantity = finder.castView(view, 2131427437, "field 'mQuantity'");
+    view = finder.findRequiredView(source, 2131493022, "field 'mIngredient'");
+    target.mIngredient = finder.castView(view, 2131493022, "field 'mIngredient'");
+    view = finder.findRequiredView(source, 2131493024, "field 'mMeasure'");
+    target.mMeasure = finder.castView(view, 2131493024, "field 'mMeasure'");
+    view = finder.findRequiredView(source, 2131493023, "field 'mQuantity'");
+    target.mQuantity = finder.castView(view, 2131493023, "field 'mQuantity'");
   }
 
   @Override public void reset(T target) {

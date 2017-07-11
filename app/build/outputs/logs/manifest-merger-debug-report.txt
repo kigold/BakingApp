@@ -19,17 +19,22 @@ ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidM
 		ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:5:22-64
 application
 ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:7:5-36:19
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\1f45ea3fbdeac1861eb690abb741262885c60b7d\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\dc8cc245f75b387b027f48710581de2dd75e7cd1\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\03979a6aeb1883b469dbe094591f72947c833d19\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\KingsLee\.android\build-cache\ffe958ac6a2c72ca4523076d9071c57b91417e0d\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\4338ba7c7a30073083487dff60bc821b2f0500a7\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\4edc889457009bf5cd5304811577edab797924c0\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\cd2851dbca67c5b8ef6a6651ddbaf5d6bc459f3b\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\97511c40ee55b0dce929066638e250a9a902e773\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\70490166b8b9c2f9811fe578cff616f9baed7875\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\ab2534e1fee2e856386020debb449b7cd5d338da\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\3e58345094c9a722dc1bb6d7cf398edfb696b2d2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\KingsLee\.android\build-cache\0b31a794676d1a638e7879506352357fe84c37c2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.test.espresso:espresso-contrib:2.2.2] C:\Users\KingsLee\.android\build-cache\bdcb1519410952d9b84f1730be6f2ee443e1b005\output\AndroidManifest.xml:24:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Users\KingsLee\.android\build-cache\2e99c6cee4e50497d56eafb0a9f4ca81955f9605\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\KingsLee\.android\build-cache\c1a68973953aa776186a7b1a87432b073fcc270d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\KingsLee\.android\build-cache\5c1bdab37c4adafb169197ebee3834440ddada7a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\KingsLee\.android\build-cache\82f4867786d6abbe5daf30a6b434a02eadbd777d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.test:runner:0.5] C:\Users\KingsLee\.android\build-cache\33081a350e46822aa03c165e4941eab106bdfe7e\output\AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] C:\Users\KingsLee\.android\build-cache\a1bb944399c2e6e0680eab8eb54dee760ed2105e\output\AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\KingsLee\.android\build-cache\3056d59d5925e065cd554ecc11c44454cb0639bf\output\AndroidManifest.xml:24:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\KingsLee\.android\build-cache\1dab2fb9a694a1210d6a9bd0e2a8ea796b144dd3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\KingsLee\.android\build-cache\d74538f03f75f70078f6000e06cdb0dfb417cad7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\KingsLee\.android\build-cache\4834c1add958e188fb52e83d80c3231905ee21c4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\KingsLee\.android\build-cache\66c651785fd42ddf08b469978ffabdb7edd4e78b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\KingsLee\.android\build-cache\eceb02afac3df051b03899089050329ad58a7671\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\KingsLee\.android\build-cache\7aaffe09ce452111acc994b8bb32719b4f258487\output\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:10:9-41
 	android:supportsRtl
@@ -76,20 +81,33 @@ ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidM
 		ADDED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml:29:19-48
 uses-sdk
 INJECTED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\1f45ea3fbdeac1861eb690abb741262885c60b7d\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\dc8cc245f75b387b027f48710581de2dd75e7cd1\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\03979a6aeb1883b469dbe094591f72947c833d19\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\KingsLee\.android\build-cache\ffe958ac6a2c72ca4523076d9071c57b91417e0d\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\4338ba7c7a30073083487dff60bc821b2f0500a7\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\b7b4de915c0c9be27913bd5321ed2e9cdca994ef\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\4edc889457009bf5cd5304811577edab797924c0\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\cd2851dbca67c5b8ef6a6651ddbaf5d6bc459f3b\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\97511c40ee55b0dce929066638e250a9a902e773\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\70490166b8b9c2f9811fe578cff616f9baed7875\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\ab2534e1fee2e856386020debb449b7cd5d338da\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\3e58345094c9a722dc1bb6d7cf398edfb696b2d2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\KingsLee\.android\build-cache\0b31a794676d1a638e7879506352357fe84c37c2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.test.espresso:espresso-contrib:2.2.2] C:\Users\KingsLee\.android\build-cache\bdcb1519410952d9b84f1730be6f2ee443e1b005\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:design:23.1.1] C:\Users\KingsLee\.android\build-cache\2e99c6cee4e50497d56eafb0a9f4ca81955f9605\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\KingsLee\.android\build-cache\c1a68973953aa776186a7b1a87432b073fcc270d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\KingsLee\.android\build-cache\5c1bdab37c4adafb169197ebee3834440ddada7a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\KingsLee\.android\build-cache\82f4867786d6abbe5daf30a6b434a02eadbd777d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\KingsLee\.android\build-cache\7fa95e6fd593b71cccd6d958e998e03d12ab9d09\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.test.espresso:espresso-core:2.2.2] C:\Users\KingsLee\.android\build-cache\c5afd3aef79946f548294f890c46cb113f70596d\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:rules:0.5] C:\Users\KingsLee\.android\build-cache\b693cccb932ac9466d40f38eb4932684319eb233\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.test:runner:0.5] C:\Users\KingsLee\.android\build-cache\33081a350e46822aa03c165e4941eab106bdfe7e\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] C:\Users\KingsLee\.android\build-cache\a1bb944399c2e6e0680eab8eb54dee760ed2105e\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\KingsLee\.android\build-cache\3056d59d5925e065cd554ecc11c44454cb0639bf\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\KingsLee\.android\build-cache\1dab2fb9a694a1210d6a9bd0e2a8ea796b144dd3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\KingsLee\.android\build-cache\d74538f03f75f70078f6000e06cdb0dfb417cad7\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\KingsLee\.android\build-cache\4834c1add958e188fb52e83d80c3231905ee21c4\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\KingsLee\.android\build-cache\66c651785fd42ddf08b469978ffabdb7edd4e78b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.exoplayer:exoplayer:r2.4.0] C:\Users\KingsLee\.android\build-cache\d6c83c5e44b22ccbb85b040ffd5a0d18653d0155\output\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.0] C:\Users\KingsLee\.android\build-cache\c00d1c337e5d93e4becbb632898c2cab0b2c05c6\output\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\KingsLee\.android\build-cache\eceb02afac3df051b03899089050329ad58a7671\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\KingsLee\.android\build-cache\7aaffe09ce452111acc994b8bb32719b4f258487\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.4.0] C:\Users\KingsLee\.android\build-cache\5ca863aa6a2416308ef330da6d7cc4e5c42ef69e\output\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.4.0] C:\Users\KingsLee\.android\build-cache\899a201a8b53513e3752d96acf770df97c25ad40\output\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.4.0] C:\Users\KingsLee\.android\build-cache\16327780fbe84fde737a5612e7e2ac187c5438c5\output\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.0] C:\Users\KingsLee\.android\build-cache\8eac5ab4206fd45bdadb33c4663b8f818fd62a73\output\AndroidManifest.xml:21:5-23:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\1f45ea3fbdeac1861eb690abb741262885c60b7d\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\KingsLee\.android\build-cache\c1a68973953aa776186a7b1a87432b073fcc270d\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml
@@ -97,18 +115,17 @@ MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\KingsLee
 		INJECTED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\KingsLee\dev\android\Udacity\BakingApp\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\1f45ea3fbdeac1861eb690abb741262885c60b7d\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\dc8cc245f75b387b027f48710581de2dd75e7cd1\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\03979a6aeb1883b469dbe094591f72947c833d19\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\4338ba7c7a30073083487dff60bc821b2f0500a7\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\b7b4de915c0c9be27913bd5321ed2e9cdca994ef\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\4edc889457009bf5cd5304811577edab797924c0\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\cd2851dbca67c5b8ef6a6651ddbaf5d6bc459f3b\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\97511c40ee55b0dce929066638e250a9a902e773\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\70490166b8b9c2f9811fe578cff616f9baed7875\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\ab2534e1fee2e856386020debb449b7cd5d338da\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\3e58345094c9a722dc1bb6d7cf398edfb696b2d2\output\AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\KingsLee\.android\build-cache\0b31a794676d1a638e7879506352357fe84c37c2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\KingsLee\.android\build-cache\c1a68973953aa776186a7b1a87432b073fcc270d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\KingsLee\.android\build-cache\5c1bdab37c4adafb169197ebee3834440ddada7a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\KingsLee\.android\build-cache\82f4867786d6abbe5daf30a6b434a02eadbd777d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\KingsLee\.android\build-cache\1dab2fb9a694a1210d6a9bd0e2a8ea796b144dd3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\KingsLee\.android\build-cache\d74538f03f75f70078f6000e06cdb0dfb417cad7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\KingsLee\.android\build-cache\4834c1add958e188fb52e83d80c3231905ee21c4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\KingsLee\.android\build-cache\66c651785fd42ddf08b469978ffabdb7edd4e78b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\KingsLee\.android\build-cache\eceb02afac3df051b03899089050329ad58a7671\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\KingsLee\.android\build-cache\7aaffe09ce452111acc994b8bb32719b4f258487\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\1f45ea3fbdeac1861eb690abb741262885c60b7d\output\AndroidManifest.xml:27:9-38
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\KingsLee\.android\build-cache\0b31a794676d1a638e7879506352357fe84c37c2\output\AndroidManifest.xml:24:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\KingsLee\.android\build-cache\1f45ea3fbdeac1861eb690abb741262885c60b7d\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\KingsLee\.android\build-cache\0b31a794676d1a638e7879506352357fe84c37c2\output\AndroidManifest.xml:23:9-47

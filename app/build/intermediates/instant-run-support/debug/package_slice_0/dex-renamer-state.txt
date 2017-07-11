@@ -1,4 +1,4 @@
-#Thu Jun 29 23:09:45 WAT 2017
+#Tue Jul 11 19:03:19 WAT 2017
 base.0=C\:\\Users\\KingsLee\\dev\\android\\Udacity\\BakingApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
 renamed.0=classes.dex
 file.0=C\:\\Users\\KingsLee\\dev\\android\\Udacity\\BakingApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex

@@ -1,4 +1,4 @@
-#Thu Jun 29 18:36:28 WAT 2017
+#Tue Jul 11 17:52:32 WAT 2017
 base.0=C\:\\Users\\KingsLee\\dev\\android\\Udacity\\BakingApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_375ce8dea0cfbab77212379a9cd29848797910af
 renamed.1=classes2.dex
 renamed.0=classes.dex

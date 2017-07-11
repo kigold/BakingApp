@@ -4,7 +4,7 @@
 
     <uses-sdk
         android:minSdkVersion="15"
-        android:targetSdkVersion="26" />
+        android:targetSdkVersion="25" />
 
     <instrumentation
         android:name="android.support.test.runner.AndroidJUnitRunner"
@@ -13,7 +13,7 @@
         android:label="Tests for com.example.kingslee.bakingapp"
         android:targetPackage="com.example.kingslee.bakingapp" />
 
-    <application>
+    <application android:label="Intents" >
         <uses-library android:name="android.test.runner" />
     </application>
 
